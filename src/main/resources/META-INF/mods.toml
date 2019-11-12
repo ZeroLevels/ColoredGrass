@@ -1,0 +1,14 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory (28 is current forge version)
+issueTrackerURL="http://my.issue.tracker/" #optional
+[[mods]] #mandatory
+modId="coloredgrass" #mandatory
+version="0.1" #mandatory
+displayName="Colored Grass" #mandatory
+updateJSONURL="http://myurl.me/" #optional
+displayURL="http://example.com/" #optional
+logoFile="examplemod.png" #optional
+credits="Thanks for this example mod goes to Java" #optional
+authors="me, lazynessmind" #optional
+description='''
+Just grass with the default dye colors'''

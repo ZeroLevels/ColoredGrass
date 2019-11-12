@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{
+    "item": "minecraft:grass_block"
+  }, {
+    "item": "minecraft:lime_dye"
+  }
+  ],
+  "result": {
+    "item": "coloredgrass:colored_grass_lime",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{
+    "item": "minecraft:grass_block"
+  }, {
+    "item": "minecraft:light_gray_dye"
+  }
+  ],
+  "result": {
+    "item": "coloredgrass:colored_grass_light_gray",
+    "count": 1
+  }
+}
