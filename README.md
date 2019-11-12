@@ -16,12 +16,12 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/lazynessmind/ColoredGrass.svg">
   </a>
 
-  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-modifiers">
-    <img alt="Repository issues" src="http://cf.way2muchnoise.eu/full_347964_downloads.svg">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/colored-grass">
+    <img alt="Repository issues" src="http://cf.way2muchnoise.eu/full_351283_downloads.svg">
   </a>
 
-  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-modifiers">
-    <img alt="Repository issues" src="http://cf.way2muchnoise.eu/versions/347964.svg">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/colored-grass">
+    <img alt="Repository issues" src="http://cf.way2muchnoise.eu/versions/351283.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
