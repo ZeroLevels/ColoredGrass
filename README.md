@@ -12,7 +12,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lazynessmind/ColoredGrass.svg">
   </a>
 
-  <a href="https://github.com/lazynessmind/HorseModifiers/issues">
+  <a href="https://github.com/lazynessmind/ColoredGrass/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/lazynessmind/ColoredGrass.svg">
   </a>
 
