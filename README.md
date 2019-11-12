@@ -1,6 +1,6 @@
 <h1 align="center">Colored Grass</h1>
 <h1 align="center">
-  <img src=""><br>
+  <img src="https://raw.githubusercontent.com/lazynessmind/ColoredGrass/master/media/logo.png"><br>
 </h1>
 
 <p align="center">
@@ -44,7 +44,9 @@
 
 ## Features:
 
-![Ola]( "Ola")
+![Ola](https://raw.githubusercontent.com/lazynessmind/ColoredGrass/master/media/allrecipes.png "Ola")
+![Ola](https://raw.githubusercontent.com/lazynessmind/ColoredGrass/master/media/singlerecipe.png "Ola")
+![Ola](https://raw.githubusercontent.com/lazynessmind/ColoredGrass/master/media/grassblocks.png "Ola")
 
 ## Links:
 
