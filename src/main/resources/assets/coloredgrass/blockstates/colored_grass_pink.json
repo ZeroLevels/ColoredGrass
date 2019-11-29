@@ -1,5 +1,11 @@
 {
-  "variants": {
-    "": { "model":"coloredgrass:block/colored_grass_pink" }
-  }
+	"variants": {
+		"snowy=true":  { "model": "coloredgrass:block/colored_grass_snow" },
+		"snowy=false": [
+			{ "model": "coloredgrass:block/colored_grass_pink" },
+			{ "model": "coloredgrass:block/colored_grass_pink", "y": 90 },
+			{ "model": "coloredgrass:block/colored_grass_pink", "y": 180 },
+			{ "model": "coloredgrass:block/colored_grass_pink", "y": 270 }
+		]
+	}
 }
